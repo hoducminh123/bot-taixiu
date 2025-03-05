@@ -1,0 +1,1 @@
+{"user_id": 7055636268, "bet_type": "T\u00e0i", "amount": 10000000, "outcome": "T\u00e0i", "timestamp": "20:18:50"}
